@@ -1,6 +1,3 @@
-local library = loadstring(game:HttpGet("https://gist.githubusercontent.com/xNico013/22d6491ee1aa72bff4b81033d13ce853/raw/f4d0435df3ecc1165b92c2bd9a15ea12f3866e8d/Turtle%2520Hub"))()
-local Tab1 = library:Window("Scripts")
-
 game.StarterGui:SetCore("SendNotification", {
    Title = "DELICIA DE SCRIPT";
    Text = "RD HUB";
